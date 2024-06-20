@@ -1,0 +1,63 @@
+[
+    {
+      "title": "Autonomous Drone Delivery",
+      "description": "Developed a system to enable autonomous drone delivery of small packages. Utilized computer vision for obstacle detection and avoidance.",
+      "image": "https://example.com/autonomous_drone_delivery.jpg",
+      "techStacks": ["Python", "OpenCV", "ROS"]
+    },
+    {
+      "title": "Home Automation System",
+      "description": "Created a home automation system that allows users to control appliances remotely through a mobile app. Integrated IoT devices and implemented security features.",
+      "image": "https://example.com/home_automation_system.jpg",
+      "techStacks": ["Arduino", "Node.js", "React Native"]
+    },
+    {
+      "title": "Robotic Arm Control",
+      "description": "Built a robotic arm control interface for precise movements and manipulation tasks. Implemented kinematics algorithms for motion planning.",
+      "image": "https://example.com/robotic_arm_control.jpg",
+      "techStacks": ["C++", "ROS", "Inverse Kinematics"]
+    },
+    {
+      "title": "Self-Driving Car Prototype",
+      "description": "Developed a prototype of a self-driving car using machine learning algorithms for perception and decision-making. Tested in various simulated and real-world environments.",
+      "image": "https://example.com/self_driving_car_prototype.jpg",
+      "techStacks": ["Python", "TensorFlow", "ROS"]
+    },
+    {
+      "title": "Smart Agriculture Monitoring",
+      "description": "Designed a system for monitoring and managing agricultural resources using IoT sensors and data analytics. Improved crop yield and resource efficiency.",
+      "image": "https://example.com/smart_agriculture_monitoring.jpg",
+      "techStacks": ["Arduino", "Raspberry Pi", "Python", "IoT"]
+    },
+    {
+      "title": "Virtual Reality Simulation",
+      "description": "Created a virtual reality simulation environment for training purposes in various fields such as medicine, aviation, and construction. Implemented realistic interactions and scenarios.",
+      "image": "https://example.com/virtual_reality_simulation.jpg",
+      "techStacks": ["Unity", "C#", "VR/AR"]
+    },
+    {
+      "title": "Drone Photography Platform",
+      "description": "Developed a platform for drone photography enthusiasts to share their aerial photographs and videos. Implemented features for community engagement and content discovery.",
+      "image": "https://example.com/drone_photography_platform.jpg",
+      "techStacks": ["React", "Node.js", "MongoDB"]
+    },
+    {
+      "title": "Chatbot for Customer Support",
+      "description": "Designed a chatbot system to handle customer inquiries and support requests efficiently. Integrated natural language processing for accurate responses.",
+      "image": "https://example.com/chatbot_for_customer_support.jpg",
+      "techStacks": ["Python", "NLTK", "Django", "Machine Learning"]
+    },
+    {
+      "title": "Augmented Reality Navigation",
+      "description": "Implemented an augmented reality navigation system for indoor and outdoor environments. Integrated real-time positioning and mapping technologies.",
+      "image": "https://example.com/augmented_reality_navigation.jpg",
+      "techStacks": ["Unity", "ARKit", "ARCore"]
+    },
+    {
+      "title": "Smart Energy Management",
+      "description": "Developed a smart energy management system for optimizing energy usage in residential and commercial buildings. Utilized IoT sensors and predictive analytics.",
+      "image": "https://example.com/smart_energy_management.jpg",
+      "techStacks": ["Raspberry Pi", "Python", "IoT", "Data Analytics"]
+    }
+  ]
+  
